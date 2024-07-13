@@ -3,13 +3,13 @@
 
 <a href="https://minihackathon.de/">Infos</a>
 
-**Challange 1:**
+**Challenge 1:**
 not released
 
-**Challange 2:**
+**Challenge 2:**
 not released
 
-**Challange 3:**
+**Challenge 3:**
 not released
 
 
